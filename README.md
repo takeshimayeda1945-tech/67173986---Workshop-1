@@ -76,9 +76,11 @@
 
 ## 9. Prototype
 
-https://www.youtube.com/watch?v=2yJgwwDcgV8
+* **Figma url:** "[Figma](https://www.figma.com/design/8SYpgjQJaHrKjdKS1LM6Lf/SALA-STORE?node-id=0-1&p=f&t=FLMT8dAd60P3Wi7O-0)"
 
 ## 10. Mermaid Diagram
+
+แผนภูมิระหว่าง Users ทั้ง 3 กลุ่มในระบบ SALA:
 
 ```mermaid
 graph TD
